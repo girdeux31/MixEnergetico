@@ -19,6 +19,6 @@ Mix fecha específica (diaria, mensual o anual):
 @MixEnergetico del 07/2022
 @MixEnergetico del 2022
 
-La fecha no puede ser anterior a 2011 ni posterior a ayer (o anteayer).
+La fecha no puede ser anterior a 2011 ni posterior a ayer (o anteayer)
 
 Ready to run in Heroku
