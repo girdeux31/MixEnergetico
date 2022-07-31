@@ -1,17 +1,14 @@
 # MixEnergetico
 
-Follow me at https://twitter.com/MixEnergetico
+Twitter bot, follow me at https://twitter.com/MixEnergetico
 
-Twitter bot, mencióname para obtener el mix energético español 🇪🇸
+Mencióname para obtener el mix energético español 🇪🇸
 
 Datos de @RedElectricaREE
-
-Por @cmesado
 
 Mix del último día disponible (1 o 2 días de retraso):
 
 @MixEnergetico
-
  
 Mix fecha específica (diaria, mensual o anual):
 
